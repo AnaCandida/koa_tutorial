@@ -6,7 +6,7 @@
 
 ## 
 
-A simple Koa server tutorial with a PostgreSQL database and Sequelize ORM, following this [tutorial series] (https://dev.to/kachiic/koa-js-part-2-connect-a-sql-database-to-your-server-4mhl)
+A simple Koa server tutorial with a PostgreSQL database and Sequelize ORM, following this [tutorial series](https://dev.to/kachiic/koa-js-part-2-connect-a-sql-database-to-your-server-4mhl)
 
 
 ## Project Structure
